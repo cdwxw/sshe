@@ -19,9 +19,6 @@ import org.apache.log4j.Logger;
 
 /**
  * 用于过滤需要拦截的JSP文件
- * 
- * @author 孙宇
- * 
  */
 public class SessionFilter implements Filter {
 

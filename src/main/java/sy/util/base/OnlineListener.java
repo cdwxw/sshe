@@ -26,9 +26,6 @@ import sy.service.base.SyonlineServiceI;
 
 /**
  * 监听在线用户上线下线
- * 
- * @author 孙宇
- * 
  */
 public class OnlineListener implements ServletContextListener, ServletContextAttributeListener, HttpSessionListener, HttpSessionAttributeListener, HttpSessionActivationListener, HttpSessionBindingListener, ServletRequestListener, ServletRequestAttributeListener {
 

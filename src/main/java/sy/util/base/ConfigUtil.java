@@ -4,9 +4,6 @@ import java.util.ResourceBundle;
 
 /**
  * 项目参数工具类
- * 
- * @author 孙宇
- * 
  */
 public class ConfigUtil {
 
@@ -14,8 +11,6 @@ public class ConfigUtil {
 
 	/**
 	 * 获得sessionInfo名字
-	 * 
-	 * @return
 	 */
 	public static final String getSessionInfoName() {
 		return bundle.getString("sessionInfoName");
@@ -23,9 +18,6 @@ public class ConfigUtil {
 
 	/**
 	 * 通过键获取值
-	 * 
-	 * @param key
-	 * @return
 	 */
 	public static final String get(String key) {
 		return bundle.getString(key);
