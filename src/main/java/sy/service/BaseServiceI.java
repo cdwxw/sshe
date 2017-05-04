@@ -10,8 +10,6 @@ import sy.util.base.HqlFilter;
 /**
  * 基础业务逻辑类，其他service继承此service获得基本的业务
  * 
- * @author 孙宇
- * 
  * @param <T>
  */
 public interface BaseServiceI<T> {
