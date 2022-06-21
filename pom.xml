@@ -45,7 +45,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.27</version>
+			<version>8.0.28</version>
 		</dependency>
 		<!-- sql server数据库驱动 <dependency> <groupId>net.sourceforge.jtds</groupId> <artifactId>jtds</artifactId> <version>1.3.1</version> </dependency> -->
 		<!-- oracle数据库驱动，如果没有使用oracle数据库，请把这个引用注释掉 -->
